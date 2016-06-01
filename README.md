@@ -1,6 +1,6 @@
 # Papaya(木瓜)
 
-一个操作WebDav的库。
+一个操作WebDav的库。在我的blog中有[详细介绍](http://www.vienta.me/2016/05/31/%E5%9F%BA%E4%BA%8Eneon%E5%BA%93%E5%B0%81%E8%A3%85%E7%9A%84%E4%B8%80%E4%B8%AAWebDav%E5%BA%93/)
 
 ## About Papaya
 
